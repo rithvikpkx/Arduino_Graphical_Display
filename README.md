@@ -1,4 +1,4 @@
-# Arduino_Graphical_Display
+# Microbit_Graphical_Display
 Lesson 11 of my Intro to Python course with Microbit
 
 Program Overview: This program is a game made with python and a microbit. The player uses the buttons on the microbit to control a player pixel in a rage game. It is designed to be extra hard and make the player rage.
